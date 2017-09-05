@@ -163,4 +163,4 @@ There are three possible sort states with this plugin, and they can be cycled th
 3. Sort descending &mdash; rows are sorted by descending order
 
 # Licensing: GNU General Public License
-This plugin is licensed unter the GNU General Public License.
+This plugin is licensed under the GNU General Public License.
